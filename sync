@@ -1,0 +1,19 @@
+#!/bin/bash
+function addcommitpush () {
+	message=\'"$@"\'
+	git pull
+	git add -A && git commit -a -m "$message"
+
+	echo "Push? (y/n)"
+	read -i "y" -e yn
+
+	if [ "$yn" = y ]; then
+		git push
+		echo "good job, bestie <3"
+	  else
+		    echo "Push canceled."
+	fi
+
+}
+
+addcommitpush $1
