@@ -1,5 +1,4 @@
-# Vocabulary
-[unit 7](https://quizlet.com/be/994808931/unit-7-ethics-in-it-flash-cards/?i=590vn4&x=1qqt)
+# [Vocabulary](https://quizlet.com/be/994243034/pc-glossary-2425-unit-7-12-flash-cards/?funnelUUID=23680104-2bf7-493c-b6f5-59bec4276e8f)
 # Professional-Communication Exam
 ## Oral 20%
 - Individual assignment: pick one of the case studies from the book (units 7-12) and prepare a **presentation/workshop** for the oral exam (you can upload your presentation one week in advance of the oral exam, should you have one - optional)
