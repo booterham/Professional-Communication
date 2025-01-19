@@ -1,4 +1,6 @@
-# Professional-Communication
+# Vocabulary
+[unit 7](https://quizlet.com/be/994808931/unit-7-ethics-in-it-flash-cards/?i=590vn4&x=1qqt)
+# Professional-Communication Exam
 ## Oral 20%
 - Individual assignment: pick one of the case studies from the book (units 7-12) and prepare a **presentation/workshop** for the oral exam (you can upload your presentation one week in advance of the oral exam, should you have one - optional)
 - You will be requested to engage with the content you prepared during the live physical oral examination, e.g.: if you choose 7.3 Case Study - Data privacy (p.184-...) - you could perhaps do a presentation about Wechat
