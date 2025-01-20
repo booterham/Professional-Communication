@@ -1,4 +1,4 @@
-# [Vocabulary](https://quizlet.com/be/994243034/pc-glossary-2425-unit-7-12-flash-cards/?funnelUUID=23680104-2bf7-493c-b6f5-59bec4276e8f)
+# [Vocabulary](https://quizlet.com/be/995087012/pc-glossary-2425-unit-7-12-flash-cards/?funnelUUID=819c8094-27f9-4dbb-a0fc-934bc09749cd)
 # Professional-Communication Exam
 ## Oral 20%
 - Individual assignment: pick one of the case studies from the book (units 7-12) and prepare a **presentation/workshop** for the oral exam (you can upload your presentation one week in advance of the oral exam, should you have one - optional)
