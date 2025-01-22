@@ -1,0 +1,8 @@
+- Individual assignment:
+  - [ ] pick one of the case studies from the book (units 7-12)
+  - [ ] prepare a presentation/workshop for the oral exam
+  - [ ] (you can upload your presentation one week in advance of the oral exam, should you have one - optional)
+- You will be requested to engage with the content you prepared during the live physical oral examination, e.g.: if you choose 7.3 Case Study - Data privacy (p.184-...) - you could perhaps do a presentation about Wechat
+- The oral exam takes place during the regular exam period
+- Duration: 15 Minutes (10-minute presentation/ etc. + 5-minute Q&A)
+- Location: on campus
